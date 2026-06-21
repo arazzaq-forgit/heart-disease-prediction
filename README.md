@@ -6,10 +6,9 @@ This project predicts whether a patient is likely to have heart disease using Ma
 
 ---
 DEMO
-<img width="1920" height="823" alt="heart disease prediction(3)Screenshot" src="https://github.com/user-attachments/assets/28a978c8-780e-4021-88f5-8cc27c5d8bce" />
-<img width="1920" height="917" alt="heart disease prediction(2)Screenshot" src="https://github.com/user-attachments/assets/fcfe1857-28b0-4ed0-a21a-d702c95b700d" />
 <img width="1920" height="881" alt="heart disease prediction(1)Screenshot" src="https://github.com/user-attachments/assets/b5315d5c-b266-4f9c-b805-934a468e7a6e" />
-
+<img width="1920" height="917" alt="heart disease prediction(2)Screenshot" src="https://github.com/user-attachments/assets/fcfe1857-28b0-4ed0-a21a-d702c95b700d"/> 
+<img width="1920" height="823" alt="heart disease prediction(3)Screenshot" src="https://github.com/user-attachments/assets/28a978c8-780e-4021-88f5-8cc27c5d8bce" />
 ## 🚀 Features
 
 - Predicts the likelihood of heart disease
