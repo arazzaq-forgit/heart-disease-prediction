@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project predicts whether a patient is likely to have heart disease using Machine Learning. Multiple classification algorithms were trained and compared, and the best-performing model (Random Forest) was selected for deployment using Streamlit.
+This project predicts whether a patient is likely to have heart disease using Machine Learning. Multiple classification algorithms were trained and compared, and the best-performing model (Random Forest) was selected for deployment using Streamlit.....
 
 ---
 
